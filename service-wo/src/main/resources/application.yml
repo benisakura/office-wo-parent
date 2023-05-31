@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service-wo
+  profiles:
+    active: dev
